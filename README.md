@@ -1,2 +1,2 @@
 # calculadora_html
-calculadora feita em HTML criada em sala de aula
+calculadora feita em Front-End criada em sala
